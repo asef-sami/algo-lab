@@ -1,0 +1,1 @@
+{"name":"Local: graph3_dfs","url":"/home/asef/Documents/Graph/graph3_dfs.cpp","tests":[{"id":1691263571468,"input":"7 7\n1 2\n1 3\n2 4\n2 5\n2 6\n2 7\n7 3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/asef/Documents/Graph/graph3_dfs.cpp","group":"local","local":true}
