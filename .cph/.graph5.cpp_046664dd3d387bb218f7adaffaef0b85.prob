@@ -1,0 +1,1 @@
+{"name":"Local: graph5","url":"/home/asef/Documents/Graph/graph5.cpp","tests":[{"id":1691504539573,"input":"5 3\n0 1\n2 3\n0 4","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/asef/Documents/Graph/graph5.cpp","group":"local","local":true}

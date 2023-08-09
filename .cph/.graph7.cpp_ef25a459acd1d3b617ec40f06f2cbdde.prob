@@ -1,0 +1,1 @@
+{"name":"Local: graph7","url":"/home/asef/Documents/Graph/graph7.cpp","tests":[{"id":1691509975016,"input":"3 3\n0 1\n1 2\n0 2","output":""},{"id":1691510055287,"input":"4 4\n0 1\n1 2\n2 3\n3 0","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/asef/Documents/Graph/graph7.cpp","group":"local","local":true}
